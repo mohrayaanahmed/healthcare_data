@@ -3,7 +3,7 @@
 *Using Machine Learning algorithms to build two predictive models in achieving two distinct objectives*
 
 **Objective I:**
-The first objective is to build a predictive model that would predict the type of operation a patient is likely to have based on the type of hip fractures suffered.
+The first objective is to build a predictive model that would predict the type of operation a patient is likely to have based on the type of hip fractures suffered. There is two images attached describing the different types of hip fractures.
 
 **Objective II:**
 The second objective is to establish relationships between different diagnoses and purport if there exists any correlation, and furthermore to build a predictive model that would help predict what kind of diagnosis a patient may encounter in the future by learning their historical diagnoses.

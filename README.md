@@ -29,6 +29,7 @@ The final class labels of Obj I (a):
 •	No operation required
 
 
+
 The final class labels of Obj I (b) are the sub-types of the arthroplasty and internal fixation surgeries:
 
 •	Arthroplasty Bipolar hemi
@@ -44,5 +45,3 @@ The final class labels of Obj I (b) are the sub-types of the arthroplasty and in
 •	Internal Fixation nail (long and short)
 
 •	No operation required
-
-**Dashboard:**

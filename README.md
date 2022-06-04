@@ -46,6 +46,8 @@ The final class labels of Obj I (b) are the sub-types of the arthroplasty and in
 
 •	No operation required
 
+A confusion matrix for both Objective I (a) and Objective I (b) is attached as a png file. An AUC-ROC curve has also been plotted for three and seven class labels. They can be found at https://mohrayaanportfolio.wordpress.com/.
+
 **Results of Objective I:**
 
 •	86% of the intracapsular fractures were treated with arthroplasty, and 12% of the fractures were treated with internal fixation.

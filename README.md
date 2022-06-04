@@ -45,3 +45,15 @@ The final class labels of Obj I (b) are the sub-types of the arthroplasty and in
 •	Internal Fixation nail (long and short)
 
 •	No operation required
+
+**Results of Objective I:**
+
+•	86% of the intracapsular fractures were treated with arthroplasty, and 12% of the fractures were treated with internal fixation.
+
+•	95% of the displaced – intracapsular fractures were treated with arthroplasty. There was almost the same number of arthroplasty and internal fixation operations performed on undisplaced – intracapsular fractures with 49% for arthroplasty and 47% for Internal fixation.
+
+•	Patients suffered with an intertrochanteric fracture were heavily operated using internal fixation techniques. 97% of the intertrochanteric fractures were treated with internal fixation, further which 95% of the internal fixation methods used was SHS or sliding hip screw.
+
+•	100% of all trochanteric and subtrochanteric fractures were treated with different subtypes of internal fixation. However, there have been different subtypes used for internal fixation with 60% of the subtrochanteric fractures being treated with IM nails and 40% were treated with SHS.
+
+The best performing models for Objective I were Random Forest classifier and Gradient boosted model.
